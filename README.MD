@@ -30,7 +30,7 @@ We choose to build this configurator because usually people spend more time crea
 
 ---
 
-## How doest it work ? 🔧
+## How does it work ? 🔧
 
 </br>
 
@@ -64,7 +64,7 @@ We choose to build this configurator because usually people spend more time crea
 
 ---
 
-## Business Model : 📈
+## Business Model 📈
 
 </br>
 
@@ -78,7 +78,7 @@ We choose to build this configurator because usually people spend more time crea
 
 </br>
 
-## Roadmap : 🚀
+## Roadmap 🚀
 
 </br>
 
