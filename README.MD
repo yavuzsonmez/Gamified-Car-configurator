@@ -1,8 +1,8 @@
-# Gamified Car Configurator
+# 🕹️ Gamified Car Configurator 🚗
 
 </br>
 
-## About
+## About 📖
 
 </br>
 
@@ -21,16 +21,16 @@ We choose to build this configurator because usually people spend more time crea
 
 </br>
 
-*Did you ever try to configure your dream car and felt like **drowning** in all the options and features?*
+*Did you ever try to configure your dream car and felt like **drowning** in all the options and features?* 😖
 
 
-*We feel you, we know the **frustration**, but we have a **solution**, using **gamification**.*
+*We feel you, we know the **frustration**, but we have a **solution**, using **gamification**.* 👍
 
 </br>
 
 ---
 
-## How doest it work ?
+## How doest it work ? 🔧
 
 </br>
 
@@ -54,7 +54,7 @@ We choose to build this configurator because usually people spend more time crea
 
 </br>
 
-> Damn ! That's exactly the car I was looking for ! Let's take a look in the **showroom**, on the right side you can see all the addiotional options of the car.
+> Damn ! That's exactly the car I was looking for ! 🚙 Let's take a look in the **showroom**, on the right side you can see all the addiotional options of the car.
 
 </br>
 
@@ -64,7 +64,7 @@ We choose to build this configurator because usually people spend more time crea
 
 ---
 
-## Business Model :
+## Business Model : 📈
 
 </br>
 
@@ -78,7 +78,7 @@ We choose to build this configurator because usually people spend more time crea
 
 </br>
 
-## Roadmap :
+## Roadmap : 🚀
 
 </br>
 
@@ -96,15 +96,15 @@ Actually the logic is pretty simple and based on "stereotypes"
 
 </br>
 
-## How to run the app locally :
+## How to run the app locally 💻
 
-- clone the repository
+- clone the repository ✔️
 
 > git clone repo name
 
 > cd repo name
 
-- run the backend (default port: 4242)
+- run the backend (default port: 4242) ✔️
 
 > cd backend
 
@@ -112,7 +112,7 @@ Actually the logic is pretty simple and based on "stereotypes"
 
 > npm start
 
-- open another terminal and run the frontend (default port: 3000)
+- open another terminal and run the frontend (default port: 3000) ✔️
 
 > cd frontend
 
@@ -120,7 +120,7 @@ Actually the logic is pretty simple and based on "stereotypes"
 
 > npm start
 
-- Your brower should open on localhost:3000
+- Your brower should open on localhost:3000 ✔️
 
 **Enjoy!**
 
@@ -131,7 +131,7 @@ Actually the logic is pretty simple and based on "stereotypes"
 
 </br>
 
-## Technologies :
+## Technologies 🧰
 
 </br>
 
@@ -150,7 +150,7 @@ Actually the logic is pretty simple and based on "stereotypes"
 
 </br>
 
-## The 'HEXAGON' Team :
+## The 'HEXAGON' Team ☄️
 
 </br>
 
