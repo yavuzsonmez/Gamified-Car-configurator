@@ -54,7 +54,7 @@ We choose to build this configurator because usually people spend more time crea
 
 </br>
 
-> Damn ! That's exactly the car I was looking for ! 🚙 Let's take a look in the **showroom**, on the right side you can see all the addiotional options of the car.
+> Damn ! That's exactly the car I was looking for ! 🚙 Let's take a look in the **showroom**, on the right side you can see all the additionals options of the car.
 
 </br>
 
@@ -70,7 +70,7 @@ We choose to build this configurator because usually people spend more time crea
 
 - SAAS (Software as a Service) on which car brands can register and enable users to configure their car through gamification.
 
-- If an appointement is taken, we could charge the company.
+- These brands have to pay annual subscription for their models to be presented on our website. Moreover, if an appointement is taken, we could charge the company.
 
 </br>
 
@@ -84,7 +84,7 @@ We choose to build this configurator because usually people spend more time crea
 
 Actually the logic is pretty simple and based on "stereotypes"
 
--> **But**, by adding more **input parameters** we could find a better matching car.
+-> By adding more **input parameters** we could find a better matching car.
 
 -> Based on your **feeback** we could improve our configurator's **accuracy**
 
